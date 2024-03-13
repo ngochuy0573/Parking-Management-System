@@ -1,0 +1,43 @@
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.exe
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.deps.json
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.runtimeconfig.json
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.runtimeconfig.dev.json
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.pdb
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.csproj.AssemblyReference.cache
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.DangNhap.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.DashBoard.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ChiTietPhieuThu.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.DoXe.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.FormDKyXe.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLGiaVe.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLKhachHang.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLNhanVien.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLPhieuThanhToan.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.QLTheGuiXe.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThanhToanXeRa.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKe.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongKeDoanhThu.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinCaNhan.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.ThongTinXe.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe.Form_Layer.NguoiQuanLyUI.BaiDoXe.resources
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.csproj.GenerateResource.cache
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.GeneratedMSBuildEditorConfig.editorconfig
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.AssemblyInfoInputs.cache
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.AssemblyInfo.cs
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.csproj.CoreCompileInputs.cache
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlyba.97E205A4.Up2Date
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.dll
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.pdb
+d:\Huy\do an\CDIO\1111\BAI XE\ProjectSE-main\Quanlybaidoxe\Quanlybaidoxe\obj\Debug\netcoreapp3.1\Quanlybaidoxe - Backup.genruntimeconfig.cache

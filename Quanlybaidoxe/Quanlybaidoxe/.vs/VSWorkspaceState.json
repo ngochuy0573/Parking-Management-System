@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\bin\\Release\\netcoreapp3.1",
+    "\\BS Layer",
+    "\\DB Layer",
+    "\\Form Layer",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\Form Layer\\DashBoard.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}
